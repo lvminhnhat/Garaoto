@@ -13,7 +13,7 @@
 * **Thời gian thực hiện:** [Ước tính thời gian hoàn thành dự án: 3 tuần], bao gồm các giai đoạn thiết kế, phát triển, kiểm thử và triển khai. .
 
 
-**II. Giai đoạn thiết kế (Tuần 1 ):** Xây dựng cấu trúc cơ bản của 1 website.
+**II. Giai đoạn thiết kế (Tuần 1 ):** Xây dựng cấu trúc cơ bản của 1 website. [Xem thêm ở đây](./giaodien/md)
 **III. Giai đoạn triển khai (Tuần 2):** Hoàn thành website trên cấu trúc đã được duyệt.
 **IV. Giai đoạn hoàn thành và bàn giao (Tuần 3):** Hoàn thành website và chỉnh sửa những chi tiết nhỏ.
 
