@@ -42,9 +42,3 @@
 *  Cam kết đảm bảo chất lượng sản phẩm, đáp ứng đầy đủ yêu cầu của khách hàng.
 *  Cam kết bảo mật thông tin của khách hàng.
 *  Cam kết hỗ trợ khách hàng tận tình trong quá trình sử dụng website.
-
-**VIII. Kết luận**
-
-Kế hoạch này đã trình bày chi tiết về quy trình phát triển website tĩnh, từ giai đoạn thu thập yêu cầu, thiết kế, phát triển đến triển khai và bảo trì. Bằng việc sử dụng công nghệ tiên tiến như HTML5, CSS3, Javascript, Tailwind CSS và Git, kết hợp với nền tảng hosting miễn phí Github Pages, chúng tôi cam kết mang đến cho quý khách hàng một website chuyên nghiệp, hiện đại, tối ưu về hiệu suất và đáp ứng đầy đủ yêu cầu. 
-
-Chúng tôi tin tưởng rằng website này sẽ là một công cụ hiệu quả để quý khách hàng giới thiệu sản phẩm/dịch vụ, quảng bá thương hiệu và tiếp cận khách hàng tiềm năng. Rất mong nhận được sự hợp tác từ quý khách!
