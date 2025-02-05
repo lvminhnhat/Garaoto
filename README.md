@@ -29,7 +29,7 @@
 **VI. Chi phí phát triển**
 
 *  **1: tên miền và hosting** 
-    *  Tên miền: Giao động từ 250k-500k. Tùy vào tên miền khách yêu cầu. (ưu tiên các tên miền có đuôi .vn hoặc .com)
+    *  Tên miền: Dao động từ 250k-500k. Tùy vào tên miền khách yêu cầu. (ưu tiên các tên miền có đuôi .vn hoặc .com)
     *  hosting: Miễn phí - hoặc sử dụng các hosting trả phí với chi phí khoảng: 500k/1 năm.
 *  **Chi phí phát triển:** 2 triệu (2.000.000 VND)
 *  **Tổng chi phí:** 2,5 triệu (2.500.000)
