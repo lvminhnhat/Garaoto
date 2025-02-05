@@ -14,8 +14,11 @@
 
 
 **II. Giai đoạn thiết kế (Tuần 1 ):** Xây dựng cấu trúc cơ bản của 1 website. [Xem thêm ở đây](./giaodien/md) 
+
 **III. Giai đoạn triển khai (Tuần 2):** Hoàn thành website trên cấu trúc đã được duyệt. 
+
 **IV. Giai đoạn hoàn thành và bàn giao (Tuần 3):** Hoàn thành website và chỉnh sửa những chi tiết nhỏ. 
+
 
 
 **V. Bảo trì và hỗ trợ**
