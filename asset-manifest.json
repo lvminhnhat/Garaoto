@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Garaoto/static/css/main.3e779c6d.css",
+    "main.js": "/Garaoto/static/js/main.83e7640b.js",
+    "index.html": "/Garaoto/index.html",
+    "main.3e779c6d.css.map": "/Garaoto/static/css/main.3e779c6d.css.map",
+    "main.83e7640b.js.map": "/Garaoto/static/js/main.83e7640b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e779c6d.css",
+    "static/js/main.83e7640b.js"
+  ]
+}
