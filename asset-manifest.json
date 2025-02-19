@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "./static/css/main.b061762d.css",
-    "main.js": "./static/js/main.d479d87b.js",
-    "index.html": "./index.html",
-    "main.b061762d.css.map": "./static/css/main.b061762d.css.map",
-    "main.d479d87b.js.map": "./static/js/main.d479d87b.js.map"
+    "main.css": "/Garaoto/static/css/main.d13d7904.css",
+    "main.js": "/Garaoto/static/js/main.bb268232.js",
+    "index.html": "/Garaoto/index.html",
+    "main.d13d7904.css.map": "/Garaoto/static/css/main.d13d7904.css.map",
+    "main.bb268232.js.map": "/Garaoto/static/js/main.bb268232.js.map"
   },
   "entrypoints": [
-    "static/css/main.b061762d.css",
-    "static/js/main.d479d87b.js"
+    "static/css/main.d13d7904.css",
+    "static/js/main.bb268232.js"
   ]
 }
