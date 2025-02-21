@@ -49,12 +49,7 @@ cd gara-xe-xe-oto
 npm install
 ```
 
-3. Create a .env file in the root directory:
-```env
-REACT_APP_GOOGLE_MAPS_API_KEY=your_google_maps_api_key
-```
-
-4. Start the development server:
+3. Start the development server:
 ```bash
 npm start
 ```
