@@ -71,7 +71,14 @@ const Contact = () => {
               </h2>
               <div className="space-y-4 text-accent dark:text-dark-accent">
                 <p>📍 270 Hùng Vương, Đình Văn, Lâm Hà, Lâm Đồng, Việt Nam</p>
-                <p>📞 0364 947 917</p>
+                <p>
+                  <a 
+                    href="tel:0364947917" 
+                    className="hover:text-blue-600 transition-colors"
+                  >
+                    📞 0364 947 917
+                  </a>
+                </p>
                 <p>✉️ Canhanh190796@gmail.com</p>
                 <p>⏰ Thời gian làm việc: 7:00 - 17:30 (T2-CN)</p>
               </div>

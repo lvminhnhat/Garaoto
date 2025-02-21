@@ -25,7 +25,7 @@ const App = () => {
 
   return (
     <div className={isDarkMode ? "dark" : ""}>
-      <Router>
+      <Router basename="/">
         <Routes>
           <Route path="/" element={<Layout isDarkMode={isDarkMode} setIsDarkMode={setIsDarkMode} />}>
             <Route index element={<Home />} />

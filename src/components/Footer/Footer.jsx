@@ -95,11 +95,21 @@ const Footer = () => {
               </li>
               <li className="flex items-center space-x-3">
                 <FaPhone className="text-primary" />
-                <span>0364 947 917</span>
+                <a 
+                  href="tel:0364947917" 
+                  className="hover:text-primary transition-colors"
+                >
+                  0364 947 917
+                </a>
               </li>
               <li className="flex items-center space-x-3">
                 <FaEnvelope className="text-primary" />
-                <span>Canhanh190796@gamil.com</span>
+                <a 
+                  href="mailto:Canhanh190796@gmail.com" 
+                  className="hover:text-primary transition-colors"
+                >
+                  Canhanh190796@gmail.com
+                </a>
               </li>
             </ul>
           </div>
@@ -109,8 +119,19 @@ const Footer = () => {
       {/* Bottom Footer */}
       <div className="border-t border-gray-800">
         <div className="container mx-auto px-4 py-6">
-          <div className="flex flex-col md:flex-row justify-between items-center">
+          <div className="flex flex-col md:flex-row justify-between items-center space-y-2 md:space-y-0">
             <p>&copy; {currentYear} HT AUTO.</p>
+            <p>
+              Powered by{' '}
+              <a 
+                href="https://minnyat.dev" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="text-primary hover:text-blue-400 transition-colors"
+              >
+                Minnyat
+              </a>
+            </p>
           </div>
         </div>
       </div>

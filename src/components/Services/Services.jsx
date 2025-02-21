@@ -48,7 +48,7 @@ const Services = () => {
           variants={containerVariants}
           initial="hidden"
           animate="visible"
-          className="grid md:grid-cols-3 gap-8"
+          className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 md:gap-8"
         >
           {randomServices.map((service) => (
             <motion.div 
@@ -56,6 +56,7 @@ const Services = () => {
               variants={itemVariants}
               whileHover={{ scale: 1.05 }}
               transition={{ duration: 0.3 }}
+              className="w-full"
             >
               <ServiceCard service={service} />
             </motion.div>
