@@ -44,6 +44,7 @@ const Header = ({ isDarkMode, setIsDarkMode }) => {
             <img 
               src="/logo_transparent.png"
               alt="HT AUTO Logo" 
+              loading="eager"
               className="w-12 h-12 object-contain"
             />
             <h1 className="text-2xl font-bold text-foreground dark:text-dark-foreground">HT AUTO</h1>

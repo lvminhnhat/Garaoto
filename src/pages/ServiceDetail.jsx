@@ -23,6 +23,7 @@ const ServiceDetail = () => {
               src={service.image} 
               alt={service.title}
               className="w-full h-64 object-cover mb-6"
+              loading = "lazy"
             />
             <div className="flex items-center mb-4">
               {service.icon}

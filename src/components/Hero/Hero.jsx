@@ -17,6 +17,7 @@ const Hero = () => {
             src="https://images.unsplash.com/photo-1503376780353-7e6692767b70"
             alt="Gara Ô tô Chuyên Nghiệp"
             className="w-full h-full object-cover"
+            loading = "eager"
           />
           <div className="absolute inset-0 bg-gradient-to-r from-black/70 to-transparent flex items-center">
             <div className="text-white ml-12 max-w-2xl">

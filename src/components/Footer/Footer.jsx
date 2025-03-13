@@ -31,6 +31,7 @@ const Footer = () => {
                 <img 
                 src="/logo_transparent.png" // Add your logo image path here
                 alt="HT AUTO Logo" 
+                loading = "lazy"
                 className="w-12 h-12 object-contain"
                 />
               <h3 className="text-xl font-bold text-white">HT Auto</h3>
